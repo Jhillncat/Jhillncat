@@ -23,6 +23,20 @@ Computer Science student at North Carolina A&T State University.
 - Tattoo Studio Mobile App Prototype (C++)
 - College Student Class Tracker
 
+## Tech Stack
+
+Languages:
+Java | Python | C++ | SQL
+
+Tools:
+Git | GitHub | IntelliJ | VS Code | SQL Workbench
+
+Concepts:
+Object-Oriented Programming  
+Data Structures  
+Algorithms  
+Software Development
+
 🎯 Career Goal
 Aspiring Software Engineer seeking a Summer internships.
 
