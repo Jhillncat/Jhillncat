@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jordyn Walsh-Hill 👋
 
-<!--
-**Jhillncat/Jhillncat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at North Carolina A&T State University.
 
-Here are some ideas to get you started:
+💻 Languages
+- Java
+- Python
+- C++
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Current Coursework
+- Database Design (SQL)
+- Algorithm Analysis
+- Data Structures
+
+🚀 Projects
+- Meteor Shooter Game (Java)
+- Memory Flip Card Game (Java)
+- Tic Tac Toe (Java)
+- Self Checkout Kiosk Simulation (Java)
+- Spotify Artist Song Finder (Python)
+- Budget Tracker (C++ Team Project)
+- Tattoo Studio Mobile App Prototype (C++)
+- College Student Class Tracker
+
+🎯 Career Goal
+Aspiring Software Engineer seeking a Summer internships.
+
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/jordyn-walsh-hill-7a1a32341/
