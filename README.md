@@ -14,14 +14,17 @@ Computer Science student at North Carolina A&T State University.
 - Data Structures
 
 🚀 Projects
+
+- SecureVault Password Manager (C++)
+- 1891 Ink Tattoo AI Mobile Application (React Native / TypeScript)
+- Job Application Tracker (Java)
+- College Student Class Tracker (Java)
+- Spotify Artist Song Finder (Python)
+- Budget Tracker (C++ Team Project)
 - Meteor Shooter Game (Java)
 - Memory Flip Card Game (Java)
 - Tic Tac Toe (Java)
 - Self Checkout Kiosk Simulation (Java)
-- Spotify Artist Song Finder (Python)
-- Budget Tracker (C++ Team Project)
-- Tattoo Studio Mobile App Prototype (C++)
-- College Student Class Tracker
 
 ## Tech Stack
 
